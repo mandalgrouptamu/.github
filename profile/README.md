@@ -1,12 +1,4 @@
-## Hi there 👋
+## Howdy to the Mandal group at Texas A&M 👋
+We integrate theoretical chemistry, quantum optics, and quantum dynamics to elucidate and exploit unconventional physical and chemical phenomena driven by quantum light–matter interactions.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Below are some codes that we are happy to share! 🤠 
